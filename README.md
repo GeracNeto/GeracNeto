@@ -1,7 +1,5 @@
 ## Olá, me chamo Geraldo! Seja bem vindo(a) ao meu GitHub 👋
-<div>
-  <h3>Atualmente estudando o Bootcamp <a href="https://web.dio.me/track/santander-bootcamp-fullstack-developer" target="_blank"><i>Santander Bootcamp Fullstack Developer</i></h3>
-</div>
+
 <div align="center">
   <img src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" alt="drawing" width="130"/>
 </div>

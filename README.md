@@ -1,9 +1,4 @@
 ## Olá, me chamo Geraldo! Seja bem vindo(a) ao meu GitHub 👋
-
-<div align="center">
-  <img src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" alt="drawing" width="130"/>
-</div>
-
 <br>
 <div align="center">
   <a href="https://github.com/GeracNeto">

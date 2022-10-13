@@ -7,10 +7,9 @@
 </h2>
 
 <br>
-<div align="center">
-  <a href="https://github.com/GeracNeto">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeracNeto&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=geracneto&bg_color=000000&color=6495ED&line=9400D3&point=4B0082&area=true&hide_border=true)
+
 
 <h2>Experiência</h2>
 
@@ -24,7 +23,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" title="C++" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40">
-    
 </div>
 
 <h2>Bootcamps Concluídos</h2>

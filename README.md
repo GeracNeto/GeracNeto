@@ -1,4 +1,11 @@
 # Olá, me chamo Geraldo! Seja bem vindo(a) ao meu GitHub 👋
+
+<h2>Atualmente me especializando como desenvolvedor fullstack (Reactjs, React Native e Nodejs) - curso Ignite da Rocketseat
+<br>
+<br>
+<div align="center"><img src="https://www.rocketseat.com.br/assets/logos/ignite-horizontal.svg"/></div>
+</h2>
+
 <br>
 <div align="center">
   <a href="https://github.com/GeracNeto">

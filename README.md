@@ -6,10 +6,6 @@
 <div align="center"><img src="https://www.rocketseat.com.br/assets/logos/ignite-horizontal.svg"/></div>
 </h2>
 
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=geracneto&bg_color=000000&color=00BFFF&line=9400D3&point=4B0082&area=true&hide_border=true)
-
 <h2>Experiência</h2>
 
 <div align="center" style="display: inline_block"><br>

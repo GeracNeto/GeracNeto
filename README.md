@@ -14,10 +14,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" title="Javascript" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" title="Typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" title="Node" width="40" height="40"/>
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_prisma.svg" alt="Prisma" title="Prisma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" title="C++" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled" title="styled" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tail" title="Tail" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" title="Expo" width="40" height="40"/>
 </div>
 
 <h2>Bootcamps Concluídos</h2>

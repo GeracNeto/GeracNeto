@@ -36,13 +36,13 @@ Sou um desenvolvedor full stack apaixonado por tecnologia, inovação e aprendiz
 
 Aqui estão alguns dos meus projetos mais recentes e desafiadores:
 
-- **[DigiBank](https://github.com/geraldo/DigiBank)**  
+- **[DigiBank](https://github.com/geracneto/DigiBank)**  
   Simulação de banco digital desenvolvido em C# com conceitos de Programação Orientada a Objetos. Permite cadastros, transações, consultas de saldo e extratos.
 
-- **[A tal da Pizza](https://github.com/geraldo/A-tal-da-Pizza)**  
+- **[A tal da Pizza](https://github.com/geracneto/A-tal-da-Pizza)**  
   Aplicação full stack para gerenciamento de pedidos em uma pizzaria. Front-end em React com Styled Components, back-end em Node.js e banco de dados com Prisma e SQLite.
 
-Esses e outros projetos podem ser visualizados [aqui](https://github.com/geraldo?tab=repositories).
+Esses e outros projetos podem ser visualizados [aqui](https://github.com/geracneto?tab=repositories).
 
 ---
 
